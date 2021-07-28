@@ -67,6 +67,7 @@ No se cumple el teorema ya que ninguna resistencia RL tenia el valor igual a la 
 
 6. VIDEO
 
+https://youtu.be/XwZlPMQG2Ew
 
 7. CONCLUSIONES
 
