@@ -43,35 +43,24 @@ Los simuladores de circuitos electrónicos son muy útiles para explicar el comp
 ### 5.1 Arme el circuito que se presenta en la figura 6.1.
 
  ![Screenshot]()
- 
-Figura 6.1. Circuito para comprobar el Teorema de la MTP
 
 ### 6.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
- ![Screenshot]()
- 
 ### 6.3 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
  ![Screenshot]()
 
 ### 6.4 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
- ![Screenshot]()
+No se cumple el teorema ya que ninguna resistencia RL tenia el valor igual a la resistencia de la fuente
 
-### 6.5 ¿Cuál fue la potencia máxima en RL?        Watts
+### 6.5 ¿Cuál fue la potencia máxima en RL?   0.046     Watts
 
-![Screenshot]()
-
-### 6.6 ¿Para qué valor de RL se obtiene la MTP?        Ω
-
-![Screenshot]()
-
+### 6.6 ¿Para qué valor de RL se obtiene la MTP?  1000    Ω
 
 ### Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 ![Screenshot]()
-
-
 
 6. VIDEO
 
