@@ -42,14 +42,17 @@ Los simuladores de circuitos electrónicos son muy útiles para explicar el comp
 
 ### 5.1 Arme el circuito que se presenta en la figura 6.1.
 
- ![Screenshot]()
+ ![Screenshot](LaboratorioNo6/1.jpg)
 
 ### 6.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
 ### 6.3 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
- ![Screenshot]()
-
+ ![Screenshot](LaboratorioNo6/2.png)
+ ![Screenshot](LaboratorioNo6/3.jpg)
+ ![Screenshot](LaboratorioNo6/4.jpg)
+  ![Screenshot](LaboratorioNo6/5.jpg)
+   ![Screenshot](LaboratorioNo6/6.jpg)
 ### 6.4 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
 No se cumple el teorema ya que ninguna resistencia RL tenia el valor igual a la resistencia de la fuente
@@ -60,7 +63,7 @@ No se cumple el teorema ya que ninguna resistencia RL tenia el valor igual a la 
 
 ### Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
-![Screenshot]()
+![Screenshot](LaboratorioNo6/7.jpg)
 
 6. VIDEO
 
